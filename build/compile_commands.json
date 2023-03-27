@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/liuchenyang/Desktop/mdrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/mdrpc/src/include -I/home/liuchenyang/Desktop/mdrpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/liuchenyang/Desktop/mdrpc/src/mprpcapplication.cc",
+  "file": "/home/liuchenyang/Desktop/mdrpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/mdrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/mdrpc/src/include -I/home/liuchenyang/Desktop/mdrpc/example  -g   -o CMakeFiles/mprpc.dir/mprpconfig.cc.o -c /home/liuchenyang/Desktop/mdrpc/src/mprpconfig.cc",
+  "file": "/home/liuchenyang/Desktop/mdrpc/src/mprpconfig.cc"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/mdrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/mdrpc/src/include -I/home/liuchenyang/Desktop/mdrpc/example  -g   -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/liuchenyang/Desktop/mdrpc/src/rpcheader.pb.cc",
+  "file": "/home/liuchenyang/Desktop/mdrpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/mdrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/mdrpc/src/include -I/home/liuchenyang/Desktop/mdrpc/example  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/liuchenyang/Desktop/mdrpc/src/rpcprovider.cc",
+  "file": "/home/liuchenyang/Desktop/mdrpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/mdrpc/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/mdrpc/src/include -I/home/liuchenyang/Desktop/mdrpc/example  -g   -o CMakeFiles/provider.dir/userservice.cc.o -c /home/liuchenyang/Desktop/mdrpc/example/callee/userservice.cc",
+  "file": "/home/liuchenyang/Desktop/mdrpc/example/callee/userservice.cc"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/mdrpc/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/mdrpc/src/include -I/home/liuchenyang/Desktop/mdrpc/example  -g   -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/liuchenyang/Desktop/mdrpc/example/user.pb.cc",
+  "file": "/home/liuchenyang/Desktop/mdrpc/example/user.pb.cc"
+}
+]
