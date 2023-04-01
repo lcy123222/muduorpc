@@ -1,0 +1,81 @@
+12:23:11 =>[error] first log
+12:23:11 =>[error] /home/liuchenyang/Desktop/mdrpc/example/callee/userservice.cc:main:39
+16:17:2 =>[error] first log
+16:17:2 =>[error] /home/liuchenyang/Desktop/mdrpc/example/callee/userservice.cc:main:39
+16:18:47 =>[error] first log
+16:18:47 =>[error] /home/liuchenyang/Desktop/mdrpc/example/callee/userservice.cc:main:39
+16:18:47 =>[info] servicename:p%*ÿ
+16:18:47 =>[info] method_name:%*ÿ
+16:20:17 =>[error] first log
+16:20:17 =>[error] /home/liuchenyang/Desktop/mdrpc/example/callee/userservice.cc:main:39
+16:20:17 =>[info] servicename:
+16:20:17 =>[info] method_name: Î<_ü
+21:19:44 =>[info] ddddd
+21:19:44 =>[info] ddddd
+21:19:44 =>[info] servicename:`‹ƒ£ý
+21:20:13 =>[info] ddddd
+21:20:13 =>[info] ddddd
+21:20:13 =>[info] servicename:à íûÿ
+21:20:13 =>[info] method_name:
+21:21:44 =>[info] ddddd
+21:21:44 =>[info] ddddd
+21:21:57 =>[info] ddddd
+21:21:57 =>[info] ddddd
+21:21:57 =>[info] servicename: É3 ÿ
+21:21:57 =>[info] method_name:ÀÉ3 ÿ
+21:24:2 =>[info] ddddd
+21:24:2 =>[info] ddddd
+21:24:2 =>[info] servicename:@KÂçþ
+21:24:2 =>[info] method_name:`KÂçþ
+21:27:0 =>[info] ddddd
+21:27:0 =>[info] ddddd
+21:27:0 =>[info] servicename:Àø¤¼þ
+21:27:0 =>[info] method_name:àø¤¼þ
+21:32:50 =>[info] ddddd
+21:32:50 =>[info] ddddd
+21:32:50 =>[info] servicename: {`Úý
+21:32:50 =>[info] method_name:À{`Úý
+21:43:11 =>[info] ddddd
+21:43:11 =>[info] ddddd
+21:43:11 =>[info] servicename: ²þ
+21:43:11 =>[info] method_name:@²þ
+21:48:46 =>[info] ddddd
+21:48:46 =>[info] ddddd
+21:48:46 =>[info] servicename:
+21:48:46 =>[info] method_name: V%ÿ
+21:50:41 =>[info] ddddd
+21:50:41 =>[info] ddddd
+21:50:41 =>[info] servicename:pË˜«ü
+21:50:41 =>[info] method_name:Ë˜«ü
+21:52:9 =>[info] ddddd
+21:52:9 =>[info] ddddd
+21:52:9 =>[info] servicename:€\‡þ
+21:52:9 =>[info] method_name: \‡þ
+21:53:40 =>[info] ddddd
+21:53:40 =>[info] ddddd
+21:53:40 =>[info] servicename:`&ý
+21:53:40 =>[info] method_name:€&ý
+21:54:16 =>[info] ddddd
+21:54:16 =>[info] ddddd
+21:54:16 =>[info] servicename:p	Óÿ
+21:54:16 =>[info] method_name:	Óÿ
+21:55:48 =>[info] ddddd
+21:55:48 =>[info] ddddd
+21:55:48 =>[info] servicename: <[›ÿ
+21:55:48 =>[info] method_name:@<[›ÿ
+21:57:42 =>[info] ddddd
+21:57:42 =>[info] ddddd
+21:57:42 =>[info] servicename:Ðm'ñÿ
+21:57:42 =>[info] method_name:ðm'ñÿ
+21:58:32 =>[info] ddddd
+21:58:32 =>[info] ddddd
+21:58:32 =>[info] servicename:àî&®ý
+21:58:32 =>[info] method_name:
+21:59:17 =>[info] ddddd
+21:59:17 =>[info] ddddd
+21:59:17 =>[info] servicename:@k¿ü
+21:59:17 =>[info] method_name:`k¿ü
+22:0:5 =>[info] ddddd
+22:0:5 =>[info] ddddd
+22:0:5 =>[info] servicename: Íq}ü
+22:0:5 =>[info] method_name:@Íq}ü
